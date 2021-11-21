@@ -2,7 +2,7 @@
 
 ## Resultado final (ScreeenShot)
 
-![](C:\Users\Felipe\Documents\Faculdade\DesenvolvimentoWeb\Projetos\new-project-vue\Images\ResultadoFinal.png)
+![](https://github.com/fe-lsc/new-project-vue/blob/main/Images/ResultadoFinal.png?raw=true)
 
 ## Project setup
 ```
